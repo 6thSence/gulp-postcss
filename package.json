@@ -1,0 +1,30 @@
+{
+  "name": "gulp-postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6thSence/gulp-postcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6thSence/gulp-postcss/issues"
+  },
+  "homepage": "https://github.com/6thSence/gulp-postcss#readme",
+  "dependencies": {
+    "autoprefixer": "6.3.6",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.0",
+    "postcss-assets": "4.1.0",
+    "postcss-browser-reporter": "0.5.0",
+    "postcss-nested": "1.0.0",
+    "postcss-short": "1.4.0",
+    "stylelint": "1.2.1",
+    "gulp-postcss": "6.1.0"
+  }
+}
